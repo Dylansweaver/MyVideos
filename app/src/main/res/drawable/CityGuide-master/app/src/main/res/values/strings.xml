@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">City Guide</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_willis">Willis Tower</string>
+    <string name="title_activity_pier">Navy Pier</string>
+    <string name="title_activity_water">Water Tower</string>
+</resources>
